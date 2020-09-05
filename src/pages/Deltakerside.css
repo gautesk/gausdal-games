@@ -30,6 +30,13 @@
     padding-left: 30%;
 }
 
+@media only screen and (max-width: 1200px) {
+    .deltaker-liste-detalj {
+        padding-left: 20%;
+    }
+}
+
+
 .deltakerbilde {
     width: 136px;
     height: 136px;

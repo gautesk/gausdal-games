@@ -28,8 +28,8 @@ export const deltakere : Deltaker[] = [
         arbeidsgiver: "Komplisert",
         detaljer: {
             alder: "26",
-            styrke: "",
-            svakhet: ""
+            styrke: "Delvis hjemmebane",
+            svakhet: "Fra Fredrikstad"
         }
     },
     {
@@ -59,7 +59,7 @@ export const deltakere : Deltaker[] = [
         detaljer: {
             alder: "26",
             styrke: "Underdog",
-            svakhet: ""
+            svakhet: "Indøker"
         }
     },
     {
@@ -79,7 +79,7 @@ export const deltakere : Deltaker[] = [
         detaljer: {
             alder: "26",
             styrke: "Svart belte",
-            svakhet: ""
+            svakhet: "Alkohol"
         }
     },
     {
