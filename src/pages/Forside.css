@@ -1,0 +1,16 @@
+.forside-wrapper {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.forside-wrapper > p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.hyttebilde {
+    max-width: 100%;
+    display: block;
+}
