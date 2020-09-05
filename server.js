@@ -8,6 +8,7 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
-app.listen(8080, () => {
+app.listen(process.env.PORT || 5000
+    , () => {
     console.log('Server is up!');
 });
