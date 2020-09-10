@@ -9,5 +9,19 @@
 .konkurranser-wrapper {
     width: 66%;
     margin: auto;
+}
 
+.konkurranse-liste-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.konkurranseboks-wrapper {
+    display: block;
+    list-style: none;
+    text-align: center;
+    width: 30%;
+    padding-left: 10%;
+    padding-right:10%;
+    padding-bottom: 20px;
 }

@@ -15,4 +15,5 @@ export interface Konkurranse {
     tittel: string;
     bildelenke: string;
     regler: string;
+    favoritt: string;
 }

@@ -10,7 +10,7 @@ export default function DeltakerBoks({deltaker} : Props) {
 
     useEffect(() => {
         import(`./deltakere/${deltaker.navn}.jpeg`).then(bilde => setBilde(bilde))
-    }, [])
+    }, [deltaker.navn])
     return (
         <ul className="deltakerboks-liste">
             {bilde && <img src={bilde.default} alt={"Bilde av " + deltaker.navn} className="deltakerbilde"/>}

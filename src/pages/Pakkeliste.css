@@ -1,0 +1,9 @@
+.pakkeliste-wrapper {
+    width: 20%;
+    margin: auto;
+    text-align: left;
+}
+
+.pakkeliste-wrapper > li {
+    margin-bottom: 5px;
+}

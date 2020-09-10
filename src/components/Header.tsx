@@ -17,6 +17,9 @@ function Header() {
                     <li>
                         <Link to="/deltakere">DELTAKERE</Link>
                     </li>
+                    <li>
+                        <Link to="/pakkeliste">PAKKELISTE</Link>
+                    </li>
                 </ul>
             </nav>
         </div>
