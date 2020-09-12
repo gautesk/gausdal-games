@@ -18,7 +18,7 @@ function Header() {
                         <Link to="/deltakere">DELTAKERE</Link>
                     </li>
                     <li>
-                        <Link to="/pakkeliste">PAKKELISTE</Link>
+                        <Link to="/praktisk">PRAKTISK INFO</Link>
                     </li>
                 </ul>
             </nav>

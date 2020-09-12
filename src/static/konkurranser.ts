@@ -14,16 +14,16 @@ export const konkurranser : Konkurranse[] = [
         favoritt: "Aksel"
     },
     {
-        tittel: "TBA",
+        tittel: "Frisbeegolf",
         bildelenke: "",
-        regler: "",
-        favoritt: ""
+        regler: "Frolfing er hipt som aldri før, og har en selvsagt plass på årets program. For de uinnvidde: det er akkurat som golf, men ballen er erstattet med en frisbee, og hullene med kurver.",
+        favoritt: "Ingen?"
     },
     {
-        tittel: "TBA",
+        tittel: "Blindebukk",
         bildelenke: "",
-        regler: "",
-        favoritt: ""
+        regler: "Som vi så på Kvitfjell kan det være vanskelig nok å navigere med hjelpemidler tilgjengelig. Hvordan blir det da når deltakerne skal forflytte seg fra A til B med bind for øynene?",
+        favoritt: "Haga"
     },
     {
         tittel: "TBA",

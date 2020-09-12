@@ -8,7 +8,7 @@ import Forside from "./pages/Forside";
 import Feilside from "./pages/Feilside";
 import Konkurranseside from "./pages/Konkurranseside";
 import Deltakereside from "./pages/Deltakereside";
-import Pakkeliste from "./pages/Pakkeliste";
+import PraktiskinfoSide from "./pages/PraktiskinfoSide";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
             <Route exact path="/" children={<Forside />}/>
             <Route exact path="/konkurranser" children={<Konkurranseside />}/>
             <Route exact path="/deltakere" children={<Deltakereside />}/>
-            <Route exact path="/pakkeliste" children={<Pakkeliste />} />
+            <Route exact path="/praktisk" children={<PraktiskinfoSide />} />
             <Route exact path="/notfound" children={<Feilside/>} />
             <Redirect exact from="*" to="/notfound" />
 

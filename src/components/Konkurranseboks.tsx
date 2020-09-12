@@ -10,7 +10,7 @@ export function Konkurranseboks({konkurranse, index} :Props) {
     const [bilde, setBilde] = useState();
 
     useEffect(() => {
-        if (bilde) {
+        if (konkurranse.bildelenke) {
             import(`./konkurranser/${konkurranse.bildelenke}.jpg`).then(bilde => setBilde(bilde))
         }
     }, [konkurranse.bildelenke])

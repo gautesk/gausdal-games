@@ -1,0 +1,25 @@
+.kart-wrapper {
+    width: 50%;
+    margin: auto;
+}
+
+.kart {
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 65%;
+    height: 450px;
+    border: 0;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .kart-wrapper {
+        width: 90%;
+        margin: auto;
+    }
+
+    .kart {
+        width: 100%;
+    }
+}
