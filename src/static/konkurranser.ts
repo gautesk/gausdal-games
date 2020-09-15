@@ -26,16 +26,16 @@ export const konkurranser : Konkurranse[] = [
         favoritt: "Haga"
     },
     {
-        tittel: "TBA",
+        tittel: "Dart",
         bildelenke: "",
-        regler: "",
-        favoritt: ""
+        regler: "Du trodde kanskje vi var ferdig med konkurranser som handler om å treffe blink? Åneidu, det skal selvfølgelig også dartes.",
+        favoritt: "Hege (henger mest på pub)"
     },
     {
-        tittel: "TBA",
+        tittel: "Stavmikser",
         bildelenke: "",
-        regler: "",
-        favoritt: ""
+        regler: "Inspirert av Radioresepsjonen. Hvem klarer å kjenne igjen flest ingredienser i en stavmikset blanding? OBS: Denne delkonkurransen er i regi  av en ekstern.",
+        favoritt: "Julie"
     },
     {
         tittel: "TBA",
