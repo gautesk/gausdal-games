@@ -38,14 +38,9 @@ export const konkurranser : Konkurranse[] = [
         favoritt: "Julie"
     },
     {
-        tittel: "TBA",
+        tittel: "Støvelkast",
         bildelenke: "",
-        regler: "",
-        favoritt: ""
-    },
-    /**{
-        tittel: "Terningspill",
-        bildelenke: "terningspill",
-        regler: "Skal man følge hjertet eller stole på statistikken? "
-    }**/
+        regler: "Verdensrekorden innehas av finnen Jouni Viljanen og er på 64,35 meter, satt under VM for noen år siden",
+        favoritt: "Jens"
+    }
 ]
